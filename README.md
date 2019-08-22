@@ -24,7 +24,7 @@ To run Bestoon in development mode; Just use steps below:
 5. Go to [http://localhost:8000](http://localhost:8000) to see your Bestoon version.
 
 ## Run On Windows
-
+SALAM
 If You're On A Windows Machine , Make Environment Ready By Following Steps Below:
 1. Install `python2`, `pip`, `virtualenv` 
 2. Clone the project using:  `git clone https://github.com/jadijadi/bestoon`.
